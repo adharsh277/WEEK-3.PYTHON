@@ -1,0 +1,5 @@
+x = 'lionel messi', 'neymar', 'ronaldo', 'alvarez'
+y = 'lewandoski', 'griezmann', 'aguero', 'pogba'
+print(x)
+print(y)
+print(x+y)
